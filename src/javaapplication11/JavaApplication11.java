@@ -18,6 +18,7 @@ public class JavaApplication11 {
         // TODO code application logic here
         int i=2;
         int j=4;
+        int f=3;
         
     }
     
